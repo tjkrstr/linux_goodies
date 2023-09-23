@@ -1,0 +1,16 @@
+git
+curl
+wget
+ncdu
+tldr
+trash-cli
+progress
+neofetch
+tmux
+gdebi
+gnupg
+ca-certificates
+python3
+python3-pip
+openjdk-11-jdk
+openjdk-17-jdk
